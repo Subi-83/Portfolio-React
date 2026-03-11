@@ -1,8 +1,8 @@
 // contact.js
 
 // Replace with your Supabase credentials
-const SUPABASE_URL = "https://hihczwtteolonbzzjjgd.supabase.co";
-const SUPABASE_KEY = "sb_publishable_P1WboHFBUP42kpojziJ5WQ__fINIzc8";
+const SUPABASE_URL = "https://vkkftzrcjasqcfdpqusa.supabase.co";
+const SUPABASE_KEY = "sb_publishable_IYVq7oPZAbhRVf80S_FXCg_AZ1ntoHx";
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
 document.addEventListener("DOMContentLoaded", () => {
